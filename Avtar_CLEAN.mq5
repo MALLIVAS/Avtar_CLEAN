@@ -1,3 +1,4 @@
+// Forge is working test 2
 //+------------------------------------------------------------------+
 //|                                                  Avtar_CLEAN.mq5 |
 //|                                  Copyright 2025, MetaQuotes Ltd. |

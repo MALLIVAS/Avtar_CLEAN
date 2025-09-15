@@ -1,3 +1,4 @@
+// Test commit from MetaEditor
 // Forge is working test 2
 //+------------------------------------------------------------------+
 //|                                                  Avtar_CLEAN.mq5 |
@@ -31,3 +32,4 @@ void OnTick()
    
   }
 //+------------------------------------------------------------------+
+// another test change for commit
